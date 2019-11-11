@@ -1,11 +1,11 @@
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Presistense.deps.json
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Presistense.dll
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Presistense.pdb
+C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Domain.pdb
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.csprojAssemblyReference.cache
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.AssemblyInfoInputs.cache
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.AssemblyInfo.cs
+C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.csproj.CopyComplete
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.dll
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.pdb
-C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Domain.dll
-C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\bin\Debug\netcoreapp2.2\Domain.pdb
-C:\Users\Mahfuz Shazol\Desktop\React FullStack\Presistense\obj\Debug\netcoreapp2.2\Presistense.csproj.CopyComplete

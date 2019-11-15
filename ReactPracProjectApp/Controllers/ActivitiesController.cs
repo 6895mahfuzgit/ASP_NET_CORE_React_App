@@ -2,6 +2,7 @@
 using Domain;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -23,5 +24,12 @@ namespace ReactPracProjectApp.Controllers
         {
             return await _mediator.Send(new List.Query());
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Activity>> List(Guid id)
+        {
+            return await _mediator.Send(new Details.Query { Id = id });
+        }
+
     }
 }

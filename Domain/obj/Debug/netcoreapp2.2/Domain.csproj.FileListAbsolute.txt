@@ -5,3 +5,4 @@ C:\Users\Mahfuz Shazol\Desktop\React FullStack\Domain\obj\Debug\netcoreapp2.2\Do
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Domain\obj\Debug\netcoreapp2.2\Domain.dll
 C:\Users\Mahfuz Shazol\Desktop\React FullStack\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Mahfuz Shazol\Desktop\React FullStack\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
